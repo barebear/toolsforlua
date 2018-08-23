@@ -55,4 +55,5 @@ function LIP.save(fileName, data)
 	file:write(contents);
 	file:close();
 end
+
 return LIP;
